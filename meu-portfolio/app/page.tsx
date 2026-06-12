@@ -336,7 +336,7 @@ export default function Home() {
               <div className="photo-inner">
                 {/* Troque o src pela sua foto. Coloque a imagem em /public/foto.jpg */}
                 <Image
-                  src="https://i.pravatar.cc/300?img=47"
+                  src="/img1.jpeg"
                   alt="Vivianne Kellen"
                   width={280}
                   height={280}
